@@ -1,5 +1,5 @@
 {
-  "name": "colu-webapp",
+  "name": "chat-webapp",
   "version": "1.0.0",
   "description": "This is the web application service for the chat application",
   "main": "app.js",
@@ -9,7 +9,6 @@
   },
   "keywords": [
     "chat",
-    "colu",
     "web-app"
   ],
   "author": "Avishay Ben Shabtai",
