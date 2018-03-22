@@ -1,0 +1,24 @@
+{
+  "name": "colu-webapp",
+  "version": "1.0.0",
+  "description": "This is the web application service for the chat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "chat",
+    "colu",
+    "web-app"
+  ],
+  "author": "Avishay Ben Shabtai",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "mocha": "5.0.4"
+  },
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
